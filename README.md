@@ -1,4 +1,4 @@
-# ServiceDesk Simulator — IT Support Portfolio
+# ServiceDesk Simulator - IT Support Portfolio
 
 Hands-on IT help desk simulations focused on ticket triage, troubleshooting, user communication, incident resolution, and technical documentation.
 
